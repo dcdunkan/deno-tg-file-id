@@ -74,7 +74,7 @@ const uniqueFileId = FileId.fromFileId(
 console.log(uniqueFileId); // => AwADuwgAAj0d4FE
 ```
 
-Credits to the original developer.
+Credits to the [original developer](https://github.com/smaznet).
 
 See the [original repository](https://github.com/smaznet/tg-file-id) for more
 information.
